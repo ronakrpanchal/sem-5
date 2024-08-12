@@ -1,0 +1,6 @@
+Customer ID,Product ID,Review Date,Review Rating,Review Text
+KT1L8V3F,P2K9M4J7H6,2023-01-05,3,Decent.
+LR9Q6J2M,N8E5A1B4K3,2022-07-21,5,Excellent product
+ZX2M5N7H,J4F9P6L1G8,2021-11-28,4,Good value for money.
+PG7K1L3W,H3E8M5R0P2,2019-06-03,1,Terrible experience.
+VQ3F4J8N,P7B6M9L2K5,2020-03-19,2,Would not buy again.

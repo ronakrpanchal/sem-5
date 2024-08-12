@@ -1,0 +1,8 @@
+Total number of reviews assesed: 25
+Total valid reviews: 25
+Total invalid reviews: 0
+Top 3 products according to rating:
+Product ID | Rating
+N8E5A1B4K3 | 5.0
+K2E3B6M7P0 | 5.0
+R6P7M1J8K5 | 5.0
